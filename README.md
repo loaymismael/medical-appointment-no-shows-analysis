@@ -1,7 +1,8 @@
-
-
 # Medical Appointment No-Shows Analysis
-![Dashboard Overview](Dashboard/Dashboard.png)
+
+![Dashboard Overview](Dashboard.png)
+
+
 ## Project Overview
 
 Medical appointment no-shows are an important operational challenge for healthcare providers. Missed appointments can reduce the effective use of healthcare resources and make appointment scheduling less efficient.
