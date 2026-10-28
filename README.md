@@ -116,27 +116,6 @@ Based on the project's analytical approach:
 
 These recommendations are intended to support further analysis. The risk categories should not be interpreted as clinically validated predictions.
 
-## Project Structure
-
-```text
-medical-appointment-no-shows-analysis/
-│
-├── README.md
-├── SQL/
-│   └── Medical_Appointment_MySQL.sql
-├── Data/
-│   ├── Medical_Appointment.csv
-│   └── V_Appointment_Risk.csv
-└── Dashboard/
-    ├── Hospital_No_Show_Dashboard.pbix
-    └── Dashboard_Screenshot.png
-```
-
-- **`SQL/`** — SQL scripts for data cleaning, exploratory analysis, patient history analysis, and risk classification.
-- **`Data/`** — Cleaned appointment data and exported risk-analysis results.
-- **`Dashboard/`** — The Power BI dashboard file (`.pbix`) and a screenshot of the project.
-
-
 ## How to Explore the Project
 
 1. Download the original dataset from Kaggle and review its terms of use.
