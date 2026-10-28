@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="Dashboard/Dashboard_Screenshot.png" alt="Medical Appointment No-Shows Dashboard" width="900">
+</p>
+
+
 # Medical Appointment No-Shows Analysis
 
 ## Project Overview
