@@ -1,10 +1,10 @@
 
-<p align="center">
-  <img src="Dashboard/Dashboard_Screenshot.png" alt="Medical Appointment No-Shows Dashboard" width="900">
-</p>
-
 
 # Medical Appointment No-Shows Analysis
+
+<p align="center">
+  <img src="Dashboard/Dashboard.png" alt="Medical Appointment No-Shows Dashboard" width="900">
+</p>
 
 ## Project Overview
 
